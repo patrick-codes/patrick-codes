@@ -16,7 +16,7 @@
 <img src="https://komarev.com/ghpvc/?username=patrickcodes&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  hey there
+  Hey there...my name is Patrick and I'm a flutter developer 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
