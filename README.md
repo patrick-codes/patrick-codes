@@ -29,7 +29,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana West Africa.
+I am a Flutter mobile applications Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana West Africa.
 
 - :telescope: I’m working as a Mobile Applications Developer and contributing to frontend and backend for building mobile and web applications.
 
