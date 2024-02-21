@@ -57,6 +57,7 @@ I am a Flutter mobile applications Developer <img src="https://media.giphy.com/m
 
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=patrick-codes)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patrick-codes&theme=dark)](https://git.io/streak-stats)
