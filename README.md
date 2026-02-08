@@ -72,6 +72,6 @@ I am a Flutter mobile applications Developer <img src="https://media.giphy.com/m
 ### 🧠 Most Used Languages
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
