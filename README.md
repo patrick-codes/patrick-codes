@@ -70,5 +70,5 @@ I am a Flutter mobile applications Developer <img src="https://media.giphy.com/m
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patrick-codes&theme=dark)](https://git.io/streak-stats)
 
 ### 🧠 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-codes&size_weight=0.5&count_weight=0.5)
 
